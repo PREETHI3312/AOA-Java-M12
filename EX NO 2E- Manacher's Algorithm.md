@@ -1,6 +1,6 @@
 # **EX 2E – Longest Palindromic Substring using Manacher’s Algorithm**
 
-## **DATE: **
+## **DATE: 14.10.25**
 
 ## **AIM:**
 
