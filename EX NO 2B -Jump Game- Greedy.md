@@ -1,6 +1,6 @@
 # **EX 2B Minimum Jumps to Reach End using Greedy Algorithm**
 
-## DATE: 
+## DATE: 14.10.25
 
 ## **AIM:**
 
